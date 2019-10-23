@@ -1,0 +1,11 @@
+C:\Temp\Course140\bin\Debug\netcoreapp2.1\Course140.deps.json
+C:\Temp\Course140\bin\Debug\netcoreapp2.1\Course140.runtimeconfig.json
+C:\Temp\Course140\bin\Debug\netcoreapp2.1\Course140.runtimeconfig.dev.json
+C:\Temp\Course140\bin\Debug\netcoreapp2.1\Course140.dll
+C:\Temp\Course140\bin\Debug\netcoreapp2.1\Course140.pdb
+C:\Temp\Course140\obj\Debug\netcoreapp2.1\Course140.csprojAssemblyReference.cache
+C:\Temp\Course140\obj\Debug\netcoreapp2.1\Course140.csproj.CoreCompileInputs.cache
+C:\Temp\Course140\obj\Debug\netcoreapp2.1\Course140.AssemblyInfoInputs.cache
+C:\Temp\Course140\obj\Debug\netcoreapp2.1\Course140.AssemblyInfo.cs
+C:\Temp\Course140\obj\Debug\netcoreapp2.1\Course140.dll
+C:\Temp\Course140\obj\Debug\netcoreapp2.1\Course140.pdb
